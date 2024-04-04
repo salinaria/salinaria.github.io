@@ -11,8 +11,7 @@ September 2019 – March 2024
 
 - Supervisor: [Dr. Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en)
 
-- Total GPA: 3.76/4 (17.61/20)
-
 
 ## Diploma in Mathematics and Physics at Allame Helli High School
+September 2015 – June 2019
 **National Organization for Development of Exceptional Talents (NODET)**
