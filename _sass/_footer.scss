@@ -59,6 +59,8 @@
 }
 
 .page__footer-follow {
+  visibility: hidden;
+  display: none;
   ul {
     margin: 0;
     padding: 0;
