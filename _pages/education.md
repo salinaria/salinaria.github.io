@@ -16,5 +16,6 @@ September 2019 – March 2024
 
 ## Diploma in Mathematics and Physics
 
-- **Allame Helli High School** (National Organization for Development of Exceptional Talents (Sampad)**)
+- **Allame Helli High School** (National Organization for Development of Exceptional Talents (Sampad))
+
 September 2015 – June 2019
