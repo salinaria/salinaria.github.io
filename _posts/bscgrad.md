@@ -11,5 +11,4 @@ Some Pics
 ======
 <img src='/images/bscgrad.jpg'>
 
-Aren't headings cool?
 ------
