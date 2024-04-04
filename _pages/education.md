@@ -14,4 +14,4 @@ September 2019 – March 2024
 
 ## Diploma in Mathematics and Physics at Allame Helli High School
 September 2015 – June 2019
-**National Organization for Development of Exceptional Talents (NODET)**
+**National Organization for Development of Exceptional Talents (Sampad)**
