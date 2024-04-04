@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-## Bachelor of Science in Computer Engineering at Amirkabir University of Technology
+## Bs.C. in Computer Engineering at Amirkabir University of Technology
 
 September 2019 – March 2024
 
