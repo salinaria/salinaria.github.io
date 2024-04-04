@@ -1,7 +1,7 @@
 ---
 title: 'Finally graduated'
 date: 2024-3-2
-permalink: /posts/bsc-grad
+permalink: /posts/bscgrad
 ---
 
 Now, I'm a bachelors's graduated.
