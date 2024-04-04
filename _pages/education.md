@@ -5,11 +5,11 @@ permalink: /education/
 author_profile: true
 ---
 
-## Bachelor of Science in Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir/en)
+## Bachelor of Science in Computer Engineering at Amirkabir University of Technology
 
-September 2019 – March 2024*
+September 2019 – March 2024
 
-- Supervisor: [Dr. Alireza Bagheri](https://aut.ac.ir/cv/2416/MOHAMMAD%20RAHMATI)
+- Supervisor: [Dr. Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en)
 
 - Total GPA: 3.76/4 (17.61/20)
 
