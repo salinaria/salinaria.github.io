@@ -20,7 +20,7 @@
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: white;
+  background-color: $lighter-gray;
   border-top: 1px solid $light-gray;
 
   footer {
@@ -58,9 +58,7 @@
   font-size: $type-size-7;
 }
 
-.page__footer-follow {
-  visibility: hidden;
-  display: none;
+.page__footer-follow {zzz
   ul {
     margin: 0;
     padding: 0;
