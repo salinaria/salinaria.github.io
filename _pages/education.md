@@ -9,6 +9,7 @@ author_profile: true
 
     - **Amirkabir University of Technology**
     - Supervisor: [Dr. Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en)
+    - Thesis project: [Glasses shop using 3D Augmented Reality](https://github.com/salinaria/gaboor-optic)
     
 - ## Diploma in Mathematics and Physics, 2019
 
