@@ -6,13 +6,14 @@ author_profile: true
 ---
 
 - ## B.Sc. in Computer Engineering
+                2019 - 2024
 
-    -**Amirkabir University of Technology**
+    - **Amirkabir University of Technology**
+    - Supervisor: [Dr. Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en)
 
 September 2019 – March 2024
 
-    - Supervisor: [Dr. Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en)
-
+    
 
 - ## Diploma in Mathematics and Physics
 
