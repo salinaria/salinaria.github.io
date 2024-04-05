@@ -2,7 +2,7 @@
 title: "Information Retrieval"
 collection: teaching assistant
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2023-fall-teaching-1
 venue: "Amirkabir University of Technology, Computer Engineering Department"
 date: Fall-2023
 location: "Tehran, Iran"
