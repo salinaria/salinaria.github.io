@@ -4,7 +4,7 @@ collection: teaching assistant
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching-2
 venue: "Amirkabir University of Technology, Computer Engineering Department"
-date: Fall-2021
+date: 2021-09-1
 location: "Tehran, Iran"
 ---
 
