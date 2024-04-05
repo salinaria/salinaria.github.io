@@ -9,4 +9,4 @@ location: "Tehran, Iran"
 ---
 
 - Under the supervision of Assistant Professor [Bahador Bakhshi](https://scholar.google.com/citations?user=cdjKqjUAAAAJ&hl=en).
-- Member of assignments and projects design team. 
+- Member of assignments and projects design team.
