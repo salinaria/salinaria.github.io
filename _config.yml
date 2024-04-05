@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Ali Ansari"
   pronouns         : # example: "she/her"  
-  bio              : "A great researcher"
+  bio              : #"Love to learn more"
   location         : "Tehran, Iran"
   employer         : "Amirkabir University"
   uri              : # URL
