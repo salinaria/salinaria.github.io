@@ -15,7 +15,7 @@ Furthermore, I am proficient in the English language and have achieved a score o
 
 Research interests
 ===
-- NLP
+- Natural Language Processing
 - Information Retrieval
 - Machine Learning
 - Deep Learning
