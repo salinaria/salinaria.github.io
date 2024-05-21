@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Ali Ansari"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at Temple University"
+  bio              : "Computer Science PhD student at Temple University"
   location         : "Philadelphia"
   employer         : "Temple University"
   uri              : # URL
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Ali-Ansari-35"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
