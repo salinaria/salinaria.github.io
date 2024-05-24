@@ -5,13 +5,13 @@ permalink: /education/
 author_profile: true
 ---
 
-- ## Ph.D. in Computer Science, 2024
+- ## Ph.D. in Computer Science, 2024 - present
 
     - **Temple University**
     - Supervisor: [Dr. Eduard Dargut](https://scholar.google.com/citations?user=bEpmUQ0AAAAJ&hl=en)
 
 
-- ## B.Sc. in Computer Engineering, 2024
+- ## B.Sc. in Computer Engineering, 2019 - 2024
 
     - **Amirkabir University of Technology**
     - Supervisor: [Dr. Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=en)
