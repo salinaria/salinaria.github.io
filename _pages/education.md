@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-- ## Ph.D. in Computer Science 
+- ## Dircet Ph.D. in Computer Science 
     2025 - present
     - **Temple University**
     - Supervisor: [Dr. Eduard Dargut](https://scholar.google.com/citations?user=bEpmUQ0AAAAJ&hl=en)
